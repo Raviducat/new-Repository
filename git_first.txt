@@ -1,0 +1,27 @@
+> https://git-scm.com/download/win
+
+===================================================
+
+types of version control system
+===================================
+
+> lvcs (local version controlling system)
+> cvcs (centerlized version controlling system)
+> dvcs (distributed version controlling system)
+
+
+git is a dvcs.
+
+
+Ec2 --> Elastic compute cloud
+
+redhat
+cent os
+
+===================================================
+
+$ git init
+
+$ git status
+
+data add 
