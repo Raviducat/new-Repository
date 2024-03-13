@@ -24,4 +24,4 @@ $ git init
 
 $ git status
 
-data add 
+data add modify
